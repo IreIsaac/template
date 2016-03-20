@@ -3,8 +3,8 @@
     "type": "magento-module",
     "extra": {
         "map": [
-            ["app", "public_html/app/design/frontend/ire/default"],
-            ["skin", "public_html/skin/frontend/ire/default"]
+            ["app", "app/design/frontend/ire/default"],
+            ["skin", "skin/frontend/ire/default"]
         ]
     }
 }
